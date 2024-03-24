@@ -1,6 +1,6 @@
 ---
 name: Smartverse Cloud
-version: "0.5.0"
+version: "0.5.2"
 slug: smartverse-cloud
 description: A Cloud connection of your Home Assistant to a Smartverse cloud and access to your Home Assistant instance
 url: https://www.smartverse.ru/homeassistant-cloud-addon
